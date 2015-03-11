@@ -1,6 +1,6 @@
 # Unicode Emoji for Pidgin
 
-This repository is a fork of [Steffen Vogel's emoji][1] set.  The original project supported iOS color emoji, and ttf monochrome emoji from old Android and Symbola sets.  This fork provides an updated, complete emoji set as used by Hangouts.
+This repository is a fork of [Steffen Vogel's emoji][1] set.  The original project supported iOS color emoji, and ttf monochrome emoji from old Android and Symbola sets.  This fork provides an updated, complete color emoji set as used by Hangouts.
 
 These Smilies can easily be used in Pidgin by copying the folder to ~/.purple/smileys
 
