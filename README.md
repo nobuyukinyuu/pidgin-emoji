@@ -4,7 +4,7 @@ This repository is a fork of [Steffen Vogel's emoji][1] set.  The original proje
 
 These Smilies can easily be used in Pidgin by copying the folder to ~/.purple/smileys
 
-Please note that every smiley maps to his dedicated unicode character as specified by Unicode 6.0.
+Please note that every smiley maps to its dedicated unicode character as specified by Unicode 6.0.
 This enables interoperability with Android & iOS chat clients.
 
 #### Screenshot
